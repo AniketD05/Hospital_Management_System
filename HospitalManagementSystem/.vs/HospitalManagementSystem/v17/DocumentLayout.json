@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\data\\hospitalmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\data\\hospitalmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\hospitals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\hospitals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\data\\hospitalmanagementsystemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\data\\hospitalmanagementsystemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\hospitalmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\hospitalmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\pages\\user_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\pages\\user_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\migrations\\20240707180938_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\migrations\\20240707180938_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\saurabh\\desktop\\dotnet project\\hospitalmanagementsystem\\hospitalmanagementsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC98BFD-DA2B-4289-AFF9-87E9DB3AF1FC}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Appointment.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\Appointment.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Appointment.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\Appointment.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABoAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T04:06:30.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T03:57:39.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T04:05:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T15:43:35.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HospitalManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Data\\HospitalManagementDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Data\\HospitalManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Data\\HospitalManagementDbContext.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Data\\HospitalManagementDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:33:49.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:38:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T17:59:29.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T04:03:02.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T04:07:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hospitals.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Hospitals.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\Hospitals.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Hospitals.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\Hospitals.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T04:05:43.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIA2wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:14:18.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HospitalManagementSystemUser.cs",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Data\\HospitalManagementSystemUser.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Data\\HospitalManagementSystemUser.cs",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Data\\HospitalManagementSystemUser.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Data\\HospitalManagementSystemUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:02:18.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T04:26:24.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\appsettings.json",
+              "RelativeToolTip": "HospitalManagementSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T15:13:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T03:44:34.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T03:44:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:44:58.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240707180938_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Migrations\\20240707180938_Initial Create.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Migrations\\20240707180938_Initial Create.cs",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Migrations\\20240707180938_Initial Create.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Migrations\\20240707180938_Initial Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:09:39.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HospitalManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalManagementSystem.csproj",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\HospitalManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalManagementSystem.csproj",
+              "RelativeToolTip": "HospitalManagementSystem\\HospitalManagementSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T18:08:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\User_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Pages\\User_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\User_Layout.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Pages\\User_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T15:49:50.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:43:40.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Saurabh\\Desktop\\Dotnet project\\HospitalManagementSystem\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T17:32:19.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

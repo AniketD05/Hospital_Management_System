@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Areas",
+    "\\Areas\\Identity",
+    "\\Areas\\Identity\\Data",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\Views\\Home",
+    "\\wwwroot"
+  ],
+  "PreviewInSolutionExplorer": false
+}

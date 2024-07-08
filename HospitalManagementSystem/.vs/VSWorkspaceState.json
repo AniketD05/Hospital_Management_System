@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HospitalManagementSystem",
+    "\\HospitalManagementSystem\\Areas",
+    "\\HospitalManagementSystem\\Areas\\Identity",
+    "\\HospitalManagementSystem\\Areas\\Identity\\Pages",
+    "\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account",
+    "\\HospitalManagementSystem\\Areas\\Identity\\Pages\\Account\\Manage",
+    "\\HospitalManagementSystem\\Controllers",
+    "\\HospitalManagementSystem\\Views",
+    "\\HospitalManagementSystem\\Views\\Shared"
+  ],
+  "SelectedNode": "\\HospitalManagementSystem\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
